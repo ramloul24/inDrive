@@ -1,13 +1,5 @@
-# Uber Clone 🚕
-iOS Uber Clone with Swift &amp; Firebase
-
-<p>
- This project is a clone of Uber which is a transportation network application. It allows riders to submit trip request which is then routed to Uber drivers who use their own cars.
-</p>
-
-<center>
-  <img src="https://user-images.githubusercontent.com/50784573/105034607-11cdd700-5a9d-11eb-9193-716f06837119.jpg"/>
-</center>
+# inDrive
+Ride Sharing App
 
 ## User Types
 
