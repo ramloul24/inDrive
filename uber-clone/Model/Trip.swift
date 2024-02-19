@@ -1,10 +1,3 @@
-//
-//  Trip.swift
-//  uber-clone
-//
-//  Created by Ted Hyeong on 22/10/2020.
-//
-
 import CoreLocation
 
 enum TripState: Int {
