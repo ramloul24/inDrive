@@ -1,11 +1,3 @@
-//
-//  LoginController.swift
-//  uber-clone
-//
-//  Created by Ted Hyeong on 18/10/2020.
-//
-
-
 import UIKit
 import Firebase
 
