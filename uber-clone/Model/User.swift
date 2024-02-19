@@ -1,10 +1,3 @@
-//
-//  User.swift
-//  uber-clone
-//
-//  Created by Ted Hyeong on 20/10/2020.
-//
-
 import CoreLocation
 
 enum AccountType: Int {
