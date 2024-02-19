@@ -1,10 +1,3 @@
-//
-//  HomeController.swift
-//  uber-clone
-//
-//  Created by Ted Hyeong on 19/10/2020.
-//
-
 import UIKit
 import Firebase
 import MapKit
